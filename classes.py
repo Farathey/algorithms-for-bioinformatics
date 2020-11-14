@@ -19,7 +19,7 @@ class matrix:
     mode : str
         a string selecting what kind of matrix we want to create (default = input)'''
 # This function is our constructor, it takes arguments we present to it and sets it as our starting variables
-# and creates empty list of lists - our matrix
+# It also creates empty list of lists - our matrix
 # Double underscore means that vairable is private and we have access to it by getters and setters 
 # Mode argument allows us to choose what kind of matrix we want to initiate:
 #   "input" as a default mode creates matrix to be filled by the user
