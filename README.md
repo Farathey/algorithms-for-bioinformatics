@@ -1,5 +1,5 @@
 ## Algorithms_1
-### 1st project in the course of algorithms for bioinformatics
+### First project in the course of algorithms for bioinformatics
 
 In the first project I was tasked with creating matrix class and implement methods listed below:
 1. Summing all values
