@@ -27,3 +27,10 @@ In the second project I was tasked with creating and presenting the usage of fun
  ### Third project
  
  In the third project I was tasked with creating function which reads FASTA file and returns the list of all sequences in it
+
+### Forth project
+
+In the forth project my goals were to:
+1. Compare the execution time between recursive and itertion implementations of Fibonnaci series
+2. Generate number of random coordinates in polar coordinates system and project them to cartesian
+3. Explore how changing the number of samples affects the approximation of probability matrices  
